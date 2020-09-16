@@ -2,7 +2,15 @@
 
 ## Goal
 
-Overall goal is ~45 sessions. Each session is one contact hour.
+Overall goal is ~45 sessions. Each session is ~60 minutes.
+
+## Flow
+
+1. Intro discussion (~15 minutes)
+1. Hands-on exercise (~20 minutes)
+1. Educator demo (~10 minutes)
+1. Reinforcing activity (~10 minutes)
+1. Instructor wrap-up (~5 minutes)
 
 ## Outline
 
